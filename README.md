@@ -1,0 +1,1 @@
+# VOIS_AICTE_Oct2025_MajorProject_Kalangi-Likhith-Arya-Vinay-Kumar-
