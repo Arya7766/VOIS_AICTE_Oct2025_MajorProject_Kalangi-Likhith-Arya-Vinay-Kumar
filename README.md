@@ -1,5 +1,5 @@
 # VOIS — AICTE Oct 2025 Major Project
-Team: Kalangi, Likhith, Arya, Vinay Kumar  
+Team: Kalangi Likhith Arya Vinay Kumar  
 Repository: VOIS_AICTE_Oct2025_MajorProject_Kalangi-Likhith-Arya-Vinay-Kumar
 
 ---
@@ -133,7 +133,7 @@ Add a license file (e.g., MIT, Apache-2.0) if you wish to publish the project. I
 
 Contact
 -------
-Project team: Kalangi, Likhith, Arya, Vinay Kumar  
+Project team: Kalangi Likhith Arya Vinay Kumar  
 Repository owner: Arya7766
 
 ---
